@@ -19,15 +19,15 @@ const About = () => {
           readable content.
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim
-          veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-          ea commodo consequat duis aute irure dolor in reprehende.
+        L’activité principale de Elite Sport Sousse est l’organisation de sessions d’entrainements 
+        annuels ou mensuelle selon votre choix. Le programme technique appliqué est un programme fourni
+         par nos entraineurs qui le mettent en place sont formés par les meilleurs formateurs du club. 
+         Le programme de la base est constitué de trois séances d’entrainements.
         </p>
         <div className="a-award">
           <img src={ballon} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">International Design Awards 2021</h4>
+            <h4 className="a-award-title">Let your dream become true</h4>
             <p className="a-award-desc">
               Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
               and fugit.
